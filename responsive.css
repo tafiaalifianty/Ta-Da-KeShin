@@ -1,0 +1,117 @@
+@media (max-width: 1024px) {
+    .mid-header {
+        display: none;
+    }
+    .header-right {
+        padding: 10px 20px;
+        margin-right: 0px;
+        margin-top: 10px;
+    }
+    .menu-icon {
+        display: block;
+    }
+    .top-wrapper h1 {
+        font-size: 32px;
+    }
+    .top-wrapper h2 {
+        font-size: 20px;
+    }
+    .top-wrapper h3 {
+        font-size: 24px;
+    }
+    .collection-heading h2 {
+        font-size: 54px;
+    }
+    .collection {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+    .text-contents,
+    .only {
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    .border {
+        width: 60%;
+    }
+    .logo img {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+}
+
+@media (max-width: 670px) {
+    .top-wrapper {
+        padding-top: 130px;
+    }
+    .top-wrapper h1 {
+        font-size: 24px;
+        line-height: 36px
+    }
+    .top-wrapper h2 {
+        font-size: 18px;
+    }
+    .top-wrapper h3 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .btn {
+        font-size: 14px;
+        padding: 12px 26px;
+        width: 100%
+    }
+    .facebook {
+        margin-bottom: 10px;
+    }
+    .instagram {
+        margin-top: 10px;
+    }
+    .or {
+        font-size: 14px;
+    }
+    .menu-icon {
+        display: block;
+        right: 0;
+        position: fixed;
+    }
+    .collection-heading h2 {
+        font-size: 38px;
+    }
+    .text-contents,
+    .only {
+        font-size: 14px;
+        padding-bottom: 20px;
+    }
+    .icons {
+        display: none;
+    }
+    .collection {
+        width: 100%;
+    }
+    .header-right {
+        display: none;
+    }
+    .border {
+        width: 80%;
+    }
+    .logo img {
+        margin-top: 0px;
+    }
+    .footer-logo {
+        position: relative;
+        bottom: 30px;
+        transform: scale(0.5);
+        width: 20%;
+        height: auto;
+    }
+    .footer-message {
+        position: relative;
+        padding-left: 35%;
+        text-align: left;
+        font-size: 12px;
+    }
+    .shopping-heading h2 {
+        font-size: 40px;
+        padding-bottom: 0px;
+    }
+}
